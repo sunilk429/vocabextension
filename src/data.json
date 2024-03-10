@@ -1,0 +1,695 @@
+[
+    {
+      "meta": {
+        "id": "vision:1",
+        "uuid": "ab684eff-4b55-4b6b-9dca-4f1567cf548c",
+        "sort": "220108800",
+        "src": "collegiate",
+        "section": "alpha",
+        "stems": [
+          "vision",
+          "visional",
+          "visionally",
+          "visions"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "vi*sion",
+        "prs": [
+          {
+            "mw": "ˈvi-zhən",
+            "sound": {
+              "audio": "vision01",
+              "ref": "c",
+              "stat": "1"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1 a",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}the act or power of seeing {bc}{sx|sight||}"
+                    ]
+                  ]
+                }
+              ],
+              [
+                "sense",
+                {
+                  "sn": "b",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}the special sense by which the qualities of an object (such as color, luminosity, shape, and size) constituting its appearance are perceived through a process in which light rays entering the eye are transformed by the retina into electrical signals that are transmitted to the brain via the optic nerve"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2 a",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}something seen in a dream, trance, or ecstasy"
+                    ]
+                  ],
+                  "sdsense": {
+                    "sd": "especially",
+                    "dt": [
+                      [
+                        "text",
+                        "{bc}a supernatural appearance that conveys a revelation"
+                      ]
+                    ]
+                  }
+                }
+              ],
+              [
+                "sense",
+                {
+                  "sn": "b",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a thought, concept, or object formed by the imagination"
+                    ]
+                  ]
+                }
+              ],
+              [
+                "sense",
+                {
+                  "sn": "c",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a manifestation to the senses of something immaterial "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "look, not at {wi}visions{/wi}, but at realities",
+                          "aq": {
+                            "auth": "Edith Wharton"
+                          }
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3 a",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}the act or power of imagination"
+                    ]
+                  ]
+                }
+              ],
+              [
+                "pseq",
+                [
+                  [
+                    "sense",
+                    {
+                      "sn": "b (1)",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}mode of seeing or conceiving"
+                        ]
+                      ]
+                    }
+                  ],
+                  [
+                    "sense",
+                    {
+                      "sn": "(2)",
+                      "dt": [
+                        [
+                          "text",
+                          "{bc}unusual discernment or foresight "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "a person of {wi}vision{/wi}"
+                            }
+                          ]
+                        ]
+                      ]
+                    }
+                  ]
+                ]
+              ],
+              [
+                "sense",
+                {
+                  "sn": "c",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}direct mystical awareness of the supernatural usually in {a_link|visible} form"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "4 a",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}something seen"
+                    ]
+                  ]
+                }
+              ],
+              [
+                "sense",
+                {
+                  "sn": "b",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a lovely or charming sight"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "vi*sion*al",
+          "prs": [
+            {
+              "mw": "ˈvizh-nəl"
+            },
+            {
+              "mw": "ˈvi-zhə-nᵊl",
+              "sound": {
+                "audio": "vision02",
+                "ref": "c",
+                "stat": "1"
+              }
+            }
+          ],
+          "fl": "adjective"
+        },
+        {
+          "ure": "vi*sion*al*ly",
+          "fl": "adverb"
+        }
+      ],
+      "et": [
+        [
+          "text",
+          "Middle English, from Anglo-French, from Latin {it}vision-, visio{/it}, from {it}vidēre{/it} to see {ma}{mat|wit|}{/ma}"
+        ]
+      ],
+      "date": "14th century{ds||2|a|}",
+      "shortdef": [
+        "the act or power of seeing : sight",
+        "the special sense by which the qualities of an object (such as color, luminosity, shape, and size) constituting its appearance are perceived through a process in which light rays entering the eye are transformed by the retina into electrical signals that are transmitted to the brain via the optic nerve",
+        "something seen in a dream, trance, or ecstasy; especially : a supernatural appearance that conveys a revelation"
+      ]
+    },
+    {
+      "meta": {
+        "id": "vision:2",
+        "uuid": "3e338077-bd09-4711-ae68-e33017e66ede",
+        "sort": "220108900",
+        "src": "collegiate",
+        "section": "alpha",
+        "stems": [
+          "vision",
+          "visioned",
+          "visioning",
+          "visions"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "vision"
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "vi*sioned"
+        },
+        {
+          "if": "vi*sion*ing",
+          "prs": [
+            {
+              "mw": "ˈvi-zhə-niŋ",
+              "sound": {
+                "audio": "vision03",
+                "ref": "c",
+                "stat": "1"
+              }
+            },
+            {
+              "mw": "ˈvizh-niŋ"
+            }
+          ]
+        }
+      ],
+      "def": [
+        {
+          "vd": "transitive verb",
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|envision||}"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "date": "1743",
+      "shortdef": [
+        "envision"
+      ]
+    },
+    {
+      "meta": {
+        "id": "vision quest",
+        "uuid": "7389af57-023b-4740-ab82-5807ff69382f",
+        "sort": "220109400",
+        "src": "collegiate",
+        "section": "alpha",
+        "stems": [
+          "vision quest",
+          "vision quests"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "vision quest"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a solitary vigil by an adolescent American Indian boy to seek spiritual power and learn through a vision the identity of his usually animal or bird guardian spirit"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "date": "1922",
+      "shortdef": [
+        "a solitary vigil by an adolescent American Indian boy to seek spiritual power and learn through a vision the identity of his usually animal or bird guardian spirit"
+      ]
+    },
+    {
+      "meta": {
+        "id": "beatific vision",
+        "uuid": "ac1422b4-be3f-4f89-ba77-a2eecfee585d",
+        "sort": "020119300",
+        "src": "collegiate",
+        "section": "alpha",
+        "stems": [
+          "beatific vision",
+          "beatific visions"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "beatific vision"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}the direct knowledge of God enjoyed by the blessed in heaven"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "date": "1702",
+      "shortdef": [
+        "the direct knowledge of God enjoyed by the blessed in heaven"
+      ]
+    },
+    {
+      "meta": {
+        "id": "double vision",
+        "uuid": "b05bc3b9-e423-48c1-9d7e-6e9ac8d48a90",
+        "sort": "043593000",
+        "src": "collegiate",
+        "section": "alpha",
+        "stems": [
+          "double vision",
+          "double visions"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "double vision"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|diplopia||}"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "date": "circa 1860",
+      "shortdef": [
+        "diplopia"
+      ]
+    },
+    {
+      "meta": {
+        "id": "dream vision",
+        "uuid": "24cd238b-33d4-49b7-8e48-d6e170405b78",
+        "sort": "043912000",
+        "src": "collegiate",
+        "section": "alpha",
+        "stems": [
+          "dream vision",
+          "dream visions"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "dream vision"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a usually medieval poem having a framework in which the poet pictures himself as falling asleep and envisioning in his dream a series of allegorical people and events"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "date": "1906",
+      "shortdef": [
+        "a usually medieval poem having a framework in which the poet pictures himself as falling asleep and envisioning in his dream a series of allegorical people and events"
+      ]
+    },
+    {
+      "meta": {
+        "id": "field of vision",
+        "uuid": "1b45f66c-21d0-47a8-8ea1-00df2058a8bb",
+        "sort": "061132000",
+        "src": "collegiate",
+        "section": "alpha",
+        "stems": [
+          "field of vision",
+          "fields of vision"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "field of vision"
+      },
+      "fl": "noun phrase",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}{sx|visual field||}"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "date": "1862",
+      "shortdef": [
+        "visual field"
+      ]
+    },
+    {
+      "meta": {
+        "id": "tunnel vision",
+        "uuid": "11be44a0-f90a-402f-aed8-768429a4b699",
+        "sort": "200446200",
+        "src": "collegiate",
+        "section": "alpha",
+        "stems": [
+          "tunnel vision",
+          "tunnel visions",
+          "tunnel-visioned"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "tunnel vision"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}constriction of the visual field resulting in loss of peripheral vision"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}extreme narrowness of viewpoint {bc}{sx|narrow-mindedness||}"
+                    ]
+                  ],
+                  "sdsense": {
+                    "sd": "also",
+                    "dt": [
+                      [
+                        "text",
+                        "{bc}single-minded concentration on one objective"
+                      ]
+                    ]
+                  }
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "tun*nel-vi*sioned",
+          "prs": [
+            {
+              "mw": "ˈtə-nᵊl-ˈvi-zhənd",
+              "sound": {
+                "audio": "tunnel05",
+                "ref": "c",
+                "stat": "1"
+              }
+            }
+          ],
+          "fl": "adjective"
+        }
+      ],
+      "date": "circa 1942{ds||1||}",
+      "shortdef": [
+        "constriction of the visual field resulting in loss of peripheral vision",
+        "extreme narrowness of viewpoint : narrow-mindedness; also : single-minded concentration on one objective"
+      ]
+    },
+    {
+      "meta": {
+        "id": "line of vision",
+        "uuid": "fc920571-ed49-4a53-8475-9e7bb8e9fe44",
+        "sort": "3011207000",
+        "src": "ld",
+        "section": "idioms",
+        "stems": [
+          "line of vision"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "line of vision"
+      },
+      "fl": "noun phrase",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}the area in front of one's eyes "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "The pole was right in my {it}line of vision{/it}."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "the area in front of one's eyes"
+      ]
+    },
+    {
+      "meta": {
+        "id": "night vision",
+        "uuid": "a10311dc-5b13-4d4f-8f6e-5ae60782ea19",
+        "sort": "3012691000",
+        "src": "ld",
+        "section": "idioms",
+        "stems": [
+          "night vision"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "night vision"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}ability to see in the dark "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "an animal with excellent {it}night vision{/it}"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "ability to see in the dark"
+      ]
+    }
+  ]
